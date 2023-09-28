@@ -1,0 +1,67 @@
+
+{
+    "review" : [
+    {
+    
+      "id": 1,
+      "title" : "Sakar",
+      "desc":"Reading all the information on the menu in my own language made me feel better and more valuable, and I enjoyed a sincere and comfortable service without any communication problems.",
+      "img" : "image19.png"
+    },
+    {
+        "id": 2,
+        "title" : "Rozhan",
+        "desc" : "Honestly, I never thought that adding/removing items from my list and sending orders directly to the waiter without calling a waiter could be this easy and fun.",
+        "img" : "image19(1).png"
+
+    },
+    {
+        "id": 3,
+        "title" : "hanar",
+        "desc" : "Reading all the information on the menu in my own language made me feel better and more valuable, and I enjoyed a sincere and comfortable service without any communication problems.",
+        "img" : "image19(2).png"
+
+    }
+    
+
+
+
+],
+"footerlink": [
+    {
+        "id" : 1,
+        "title" : "About" ,
+        "link1" : "Features",
+        "link2" : "Benefits",
+        "link3" : "News",
+        "link4" : "FAQ",
+        "link5" : "Get Contact"
+    },{
+        "id" : 2,
+        "title" : "Solutions" ,
+        "link1" : " QR Menu",
+        "link2" : " Restaurant Management System",
+        "link3" : " Tablet Menu",
+        "link4" : " Dine-in",
+        "link5" : ""
+    }
+    ,{
+        "id" : 3,
+        "title" : "Company" ,
+        "link1" : " About",
+        "link2" : "Blog",
+        "link3" : "Join Us",
+        "link4" : "Press",
+        "link5" : "Partners"
+    }
+    ,{
+        "id" : 4,
+        "title" : "Legal" ,
+        "link1" : "Claim",
+        "link2" : "Privacy",
+        "link3" : "Terms",
+        "link4" : "",
+        "link5" : ""
+    }
+]
+}
